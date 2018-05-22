@@ -1,0 +1,24 @@
+{
+  "name": "gtd-evernote-toolkit",
+  "version": "0.0.1",
+  "description": "A crude way to access Evernote content.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benparsons/gtd-evernote-toolkit.git"
+  },
+  "author": "benparsons",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/benparsons/gtd-evernote-toolkit/issues"
+  },
+  "homepage": "https://github.com/benparsons/gtd-evernote-toolkit#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "jsonpath": "^1.0.0",
+    "xml2js": "^0.4.19"
+  }
+}
